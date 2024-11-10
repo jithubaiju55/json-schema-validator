@@ -1,5 +1,7 @@
 {
-  "name": "json-schema-validator",
+  
+   "name": "json-schema-validator-jithu-baiju",
+  
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
